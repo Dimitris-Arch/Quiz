@@ -28,3 +28,4 @@
 Απλο διπλο κλικ στο quiz.exe.
 
 Το quiz εχει δημιουργηθει με adobe animate και ειναι flash αρχειο.Εαν δεν εχει ο υπολογιστης adobe flash player,θα γινει προτροπη για εγκατασταση απο την σελιδα get.adobe.com
+https://github.com/tizianoproject/360-quiz το το πρωτοτυπο
